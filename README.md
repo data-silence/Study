@@ -7,7 +7,7 @@
 ![](https://github.com/data-silence/Study/blob/master/0%20-%20Diploma%20and%20sertificates/accomplishments.jpg?raw=true)
 
 ### 2023 activities
-![](https://github.com/data-silence/Study/blob/master/0%20-%20Diploma%20and%20sertificates/2023%20activities.jpg?raw=true)
+https://stepik.org/users/449927689/profile
 
 ### Codes and jupyter notebooks
 [Python](https://github.com/data-silence/Study/tree/master/Python)
