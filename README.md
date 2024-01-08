@@ -1,5 +1,5 @@
 # About
-* This repository contains evidence of my education and professional activities: scripts, jupyter notebooks and documents
+* This repository contains evidence of my education activities: scripts, jupyter notebooks, diplomas and certificates obtained in the course of training
 * Only some of the code and activities that have been saved are represented here
 * Due security reasons personal data has been deleted. Supporting documents can be provided during the employment process 
 
