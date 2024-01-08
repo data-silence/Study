@@ -20,4 +20,6 @@ https://stepik.org/users/449927689/profile
 
 [Deep Learning](https://github.com/data-silence/Study/tree/master/DL/HSE)
 
-[NLP and ADL](https://github.com/data-silence/Study/tree/master/%D0%90pplication%20problems%20(NLP%2C%20ADL))
+[Application problems](https://github.com/data-silence/Study/tree/master/%D0%90pplication%20problems%20(NLP%2C%20ADL))
+
+[NLP](https://github.com/data-silence/Study/tree/master/NLP)
